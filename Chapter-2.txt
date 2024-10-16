@@ -1,2 +1,13 @@
 --as we can see once we have created the file it indicates that this file is unmodified.
 git status -- will be used to know about the file status.
+
+
+INSERT --- > ADD ---> COMMIT ---> PUSH 
+
+first, we will create the file
+then we have to add the file to Git repository on local machine.
+we use git add 
+then it will be moved to stating area, 
+then we have to add it to Git repository using git commit
+
+once everything is done, we finally add it to remote repository which is GitHub Repository.
