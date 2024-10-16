@@ -1,0 +1,7 @@
+Git = backbone software
+GitHub = cloud-based platform where you can store files, codes, and share with other or showcase your works, u can also work with others.
+
+	Whenever we are creating files, we should provide commit message when we save the files in repository.
+	It’s always 
+o	Your-Repository-name/newly-created-repository/branch-name-main/files.txt
+	Svignesh45/GitHub-Learning/main/text.txt
