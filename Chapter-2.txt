@@ -1,0 +1,2 @@
+--as we can see once we have created the file it indicates that this file is unmodified.
+git status -- will be used to know about the file status.
